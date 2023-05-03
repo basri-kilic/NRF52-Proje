@@ -1,0 +1,48 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="template_pca10040"/>
+  <ProjectSessionItem path="template_pca10040;template_pca10040"/>
+  <ProjectSessionItem path="template_pca10040;template_pca10040;Application"/>
+  <ProjectSessionItem path="template_pca10040;template_pca10040;Board Definition"/>
+  <ProjectSessionItem path="template_pca10040;template_pca10040;Board Support"/>
+  <ProjectSessionItem path="template_pca10040;template_pca10040;None"/>
+  <ProjectSessionItem path="template_pca10040;template_pca10040;nRF_Core"/>
+  <ProjectSessionItem path="template_pca10040;template_pca10040;System Files"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="3" y="14" useTextEdit="1" path="../../../main.c" left="0" selected="1" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="59" y="21" useTextEdit="1" path="flash_placement.xml" left="0" top="0" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="template_pca10040" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/nrf_sdk/components/libraries/log/src" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>

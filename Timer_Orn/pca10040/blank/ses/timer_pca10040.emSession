@@ -1,0 +1,45 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="timer_pca10040"/>
+  <ProjectSessionItem path="timer_pca10040;timer_pca10040"/>
+  <ProjectSessionItem path="timer_pca10040;timer_pca10040;Application"/>
+  <ProjectSessionItem path="timer_pca10040;timer_pca10040;System Files"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="24" useTextEdit="1" path="../../../main.c" left="0" selected="1" top="50" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="39" y="110" useTextEdit="1" openedFrom="C:/nrf_sdk/examples/Yeni/Timer_Orn/main.c" path="../../../../../../modules/nrfx/drivers/include/nrfx_timer.h" left="0" top="100" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="57" y="6" useTextEdit="1" path="flash_placement.xml" left="0" top="1" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="timer_pca10040" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
